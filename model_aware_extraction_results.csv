@@ -1,0 +1,3 @@
+sentence_index,model_type,function_used,R2_verified,R2,qmax_verified,qmax,KL_verified,KL,Ce_verified,Ce,qe_verified,qe
+2,Langmuir,extract_langmuir_parameters,True,0.98,True,45.2,True,0.15,,,,
+3,Langmuir,extract_langmuir_parameters,,,True,45.2,True,0.15,True,10.0,True,8.5

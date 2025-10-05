@@ -1,4 +1,4 @@
-influent_P_valid,sentence_index,is_multi_value,effluent_P,effluent_P_valid,chemical_dose,chemical_dose_valid,removal_efficiency,removal_efficiency_valid
-False,2,False,,,,,,
-False,4,True,1.0,True,18.0,True,,
-False,5,True,1.0,True,18.0,True,0.83,True
+influent_P,influent_P_valid,temperature,temperature_valid,pH,pH_valid,sentence_index,is_multi_value,effluent_P,effluent_P_valid,chemical_dose,chemical_dose_valid,removal_efficiency,removal_efficiency_valid
+8.0,True,20.0,True,7.0,True,1,False,,,,,,
+8.0,True,,,,,2,True,1.0,True,18.0,True,,
+,False,,,,,3,True,1.0,True,18.0,True,0.83,True
